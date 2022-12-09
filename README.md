@@ -3,8 +3,7 @@ Evolução do primeiro programa feito em C.
 
 Projetinho pessoal: programa que analisa dados dos jogos corridos da Lotofácil e, a partir de alguns padrões identificados, gera um jogo com maior probabilidade de acerto.
 
-O programa não é nenhum milagre que te fará ganhar na Loteria hahah. Com seu uso, as chances aumentam, mas permanecem pequenas! 
-
+ATENÇÃO! O programa não é nenhum milagre que te fará ganhar na Loteria hahah. Com seu uso, as chances aumentam, mas permanecem pequenas! 
 Sinta-se livre para utilizá-lo e, se por acaso ganhar, a desenvolvedora aqui aceita uma doação de agradecimento! =D
 
 OBS: Para utilização em sua máquina será necessário:
